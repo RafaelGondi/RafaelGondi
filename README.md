@@ -12,9 +12,9 @@ I'm a UX designer and front-end developer from Brasil. My topics of interest are
 <br />
 
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RafaelGondi&show_icons=true&cache_seconds=86400&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelGondi&show_icons=true&cache_seconds=86400&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGondi&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGondi&layout=compact&theme=tokyonight" />
 </div>
 
 <br />
