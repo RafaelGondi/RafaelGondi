@@ -1,13 +1,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi! My name is Rafael Dias
 
-I'm a UX designer and front-end developer from Brasil. My topics of interest are **Design systems**, **UI/UX Design**, **Design Ops**,  **Front-end development** and **Agile**
+I'm a UX designer and front-end developer from Brasil. My topics of interest are **Design systems**, **UI/UX Design**, **Design Ops**,  **Front-end development**, and **Agile**.
 
 #### About me
-- 🎓 Computer Scientist
-- 🎓 MSc student in design
-- 👨‍💻 Product Design specialist at [Sysvale](https://sysvale.com/)
-- 🌱 I’m currently learning Typescript, Vue3 and Vite;
-- 📖 I’m currently reading [The Mythical Man Month](https://www.google.com.br/books/edition/The_Mythical_Man_Month/Yq35BY5Fk3gC?hl=en&gbpv=0)
+- 🎓 Computer Scientist;
+- 🎓 MSc student in design;
+- 👨‍💻 Product Design specialist at [Sysvale](https://sysvale.com/);
+- 🌱 I’m currently learning Typescript, Vue3, and Vite;
+- 📖 I’m currently reading [The Mythical Man-Month](https://www.google.com.br/books/edition/The_Mythical_Man_Month/Yq35BY5Fk3gC?hl=en&gbpv=0);
 
 <br />
 
