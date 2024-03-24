@@ -4,7 +4,7 @@ I'm a UX designer and front-end developer from Brasil. My topics of interest are
 
 #### About me
 - 🎓 Computer Scientist;
-- 🎓 MSc student in design;
+- 🎓 MSc in design;
 - 👨‍💻 Product Design specialist at [Sysvale](https://sysvale.com/);
 - 🌱 I’m currently learning Typescript, Vue3, and Vite;
 - 📖 I’m currently reading [The Mythical Man-Month](https://www.google.com.br/books/edition/The_Mythical_Man_Month/Yq35BY5Fk3gC?hl=en&gbpv=0);
