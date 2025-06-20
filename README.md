@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi! My name is Rafael Dias
 
-I'm a UX designer and front-end developer from Brasil. My topics of interest are **Design systems**, **UI/UX Design**, **Design Ops**,  **Front-end development**, and **Agile**.
+I'm a Front-end developer and Product designer from Brasil. My topics of interest are **Design systems**, **UI/UX Design**, **Design Ops**,  **Front-end development**, and **Agile**.
 
 #### About me
 - 🎓 Computer Scientist;
