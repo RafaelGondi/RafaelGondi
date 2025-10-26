@@ -6,7 +6,6 @@ I'm a Front-end developer and Product designer from Brasil. My topics of interes
 - 🎓 Computer Scientist;
 - 🎓 MSc in design;
 - 👨‍💻 Senior Front-end Engineer I at [Sysvale](https://sysvale.com/);
-- 🌱 I’m currently learning AdonisJS, Typescript, React Native;
 
 <br />
 
