@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi! My name is Rafael Dias
 
-I'm a Front-end developer from Brasil. My topics of interest are **Front-end development**, **Design systems**, **UI/UX Design**, and **Agile**.
+I'm a Front-end Engineer from Brasil. My topics of interest are **Front-end development**, **Design systems**, **UI/UX Design**, and **Agile**.
 
 #### About me
 - 🎓 Computer Scientist;
@@ -9,15 +9,7 @@ I'm a Front-end developer from Brasil. My topics of interest are **Front-end dev
 
 <br />
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelGondi&show_icons=true&cache_seconds=86400&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGondi&layout=compact&theme=tokyonight" />
-</div>
-
-<br />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Skills
+Skills
 
 
 #### UI
