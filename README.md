@@ -5,7 +5,7 @@ I'm a Front-end developer from Brasil. My topics of interest are **Front-end dev
 #### About me
 - 🎓 Computer Scientist;
 - 🎓 MSc in design;
-- 👨‍💻 Senior Front-end Engineer I at [Sysvale](https://sysvale.com/);
+- 👨‍💻 Front-end Engineer at [Kaizen Gaming](https://kaizengaming.com/home);
 
 <br />
 
